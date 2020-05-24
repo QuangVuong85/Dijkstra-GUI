@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8cfc1de6-8af4-4e99-81b6-9440c5cfcd0f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="8cfc1de6-8af4-4e99-81b6-9440c5cfcd0f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1590352071071</updated>
       <workItem from="1590352072733" duration="269000" />
-      <workItem from="1590352562068" duration="473000" />
+      <workItem from="1590352562068" duration="789000" />
     </task>
     <task id="LOCAL-00001" summary="add lib &amp; path VMOption">
       <created>1590352939697</created>
@@ -59,7 +57,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590352939698</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=".">
+      <created>1590353054927</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590353054928</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -67,21 +72,22 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add lib &amp; path VMOption" />
-    <option name="LAST_COMMIT_MESSAGE" value="add lib &amp; path VMOption" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590352714105">
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590353182650">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1590352714105" />
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1590353182650" />
     <state x="498" y="207" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1590352116490">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="498" y="207" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.834@0.0.1536.834" timestamp="1590352116490" />
-    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1590352933136">
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1590353053470">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1590352933136" />
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1590353053470" />
     <state x="473" y="158" key="FileChooserDialogImpl" timestamp="1590352584821">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -106,9 +112,9 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1590352587442" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1590352979237">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1590353066101">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1590352979237" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1590353066101" />
   </component>
 </project>
