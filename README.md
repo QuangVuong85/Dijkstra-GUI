@@ -28,4 +28,4 @@ Sau khi tìm được lộ trình ngắn nhất nối 2 điểm đã chọn, c�
 ### Kết quả:
 ![https://github.com/QuangVuong85/Dijkstra-GUI/blob/master/images/graph.dijkstra.25.05.test.png](images/graph.dijkstra.25.05.test.png)
 ### Website:
-Link: [http://monkeyfamily.tech](http://monkeyfamily.tech)
+[http://monkeyfamily.tech](http://monkeyfamily.tech)
