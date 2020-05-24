@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+
+<GridPane alignment="center" hgap="10" vgap="10" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <columnConstraints>
+      <ColumnConstraints />
+   </columnConstraints>
+   <rowConstraints>
+      <RowConstraints />
+   </rowConstraints>
+   <children>
+      <Pane prefHeight="750.0" prefWidth="1000.0">
+         <children>
+            <Pane prefHeight="40.0" prefWidth="1000.0" style="-fx-background-color: silver;">
+               <children>
+                  <Label id="lblHeader" alignment="CENTER" contentDisplay="CENTER" layoutX="338.0" layoutY="8.0" prefHeight="25.0" prefWidth="324.0" text="http://gg.gg/vuongdq85">
+                     <font>
+                        <Font name="Times New Roman Bold" size="22.0" />
+                     </font>
+                  </Label>
+               </children>
+            </Pane>
+<!--            <ImageView id="imgView" fx:id="imageView" fitHeight="560.0" fitWidth="1000.0" layoutY="40.0" pickOnBounds="true" preserveRatio="true" />-->
+            <ScrollPane fx:id="paneDraw" layoutY="40.0" onMouseClicked="#paneDraw_clicked" pannable="true" prefHeight="560.0" prefWidth="1000.0" />
+            <Pane layoutY="600.0" prefHeight="150.0" prefWidth="1000.0" style="-fx-background-color: silver;">
+               <children>
+                  <Label layoutX="26.0" layoutY="65.0" text="Line:">
+                     <font>
+                        <Font name="Times New Roman" size="18.0" />
+                     </font>
+                  </Label>
+                  <Label layoutX="26.0" layoutY="24.0" text="Point:">
+                     <font>
+                        <Font name="Times New Roman" size="18.0" />
+                     </font>
+                  </Label>
+                  <TextField id="txtPoint" fx:id="txtPoint" layoutX="78.0" layoutY="19.0" prefHeight="32.0" prefWidth="163.0" text="7">
+                     <font>
+                        <Font name="Times New Roman Bold" size="18.0" />
+                     </font>
+                  </TextField>
+                  <TextField id="txtLine" fx:id="txtLine" layoutX="79.0" layoutY="59.0" prefHeight="32.0" prefWidth="163.0" text="10">
+                     <font>
+                        <Font name="Times New Roman Bold" size="18.0" />
+                     </font>
+                  </TextField>
+                  <CheckBox id="cbShowStep" fx:id="cbShowStep" layoutX="317.0" layoutY="63.0" mnemonicParsing="false" onMouseClicked="#cbShowStep_Clicked" text="Show steps">
+                     <font>
+                        <Font name="Times New Roman" size="18.0" />
+                     </font>
+                  </CheckBox>
+                  <Button id="btnGenerate" fx:id="btnGenerate" layoutX="150.0" layoutY="104.0" mnemonicParsing="false" onMouseClicked="#btnGenerate_Clicked" prefHeight="32.0" prefWidth="90.0" style="-fx-text-fill: red;" text="Generate">
+                     <font>
+                        <Font name="Times New Roman" size="18.0" />
+                     </font>
+                  </Button>
+                  <Button id="btnFind" fx:id="btnFind" layoutX="317.0" layoutY="104.0" mnemonicParsing="false" onMouseClicked="#btnFind_Clicked" prefHeight="32.0" prefWidth="90.0" style="-fx-text-fill: blue;" text="Find">
+                     <font>
+                        <Font name="Times New Roman" size="18.0" />
+                     </font>
+                  </Button>
+                  <Slider id="sliderSpeed" fx:id="sliderSpeed" layoutX="317.0" layoutY="26.0" min="10.0" onScroll="#sliderSpeed_Scroll" prefHeight="17.0" prefWidth="181.0" value="10.0" />
+                  <Label id="lblNodes" fx:id="lblNodes" layoutX="848.0" layoutY="55.0" text="Nodes:">
+                     <font>
+                        <Font name="Times New Roman" size="18.0" />
+                     </font>
+                  </Label>
+                  <Label id="lblSteps" fx:id="lblSteps" layoutX="848.0" layoutY="25.0" text="Steps:">
+                     <font>
+                        <Font name="Times New Roman" size="18.0" />
+                     </font>
+                  </Label>
+                  <Label id="lblPointEnd" fx:id="lblPointEnd" layoutX="685.0" layoutY="55.0" text="Point end:">
+                     <font>
+                        <Font name="Times New Roman" size="18.0" />
+                     </font>
+                  </Label>
+                  <Label id="lblPointStart" fx:id="lblPointStart" layoutX="685.0" layoutY="25.0" text="Point start:">
+                     <font>
+                        <Font name="Times New Roman" size="18.0" />
+                     </font>
+                  </Label>
+                  <Label id="lblName" fx:id="lblStatus" alignment="CENTER_RIGHT" layoutX="884.0" layoutY="126.0" prefHeight="21.0" prefWidth="116.0" text="vuongdq85">
+                     <font>
+                        <Font name="Times New Roman Bold" size="14.0" />
+                     </font>
+                     <opaqueInsets>
+                        <Insets />
+                     </opaqueInsets>
+                  </Label>
+               </children>
+            </Pane>
+         </children>
+      </Pane>
+   </children>
+</GridPane>
