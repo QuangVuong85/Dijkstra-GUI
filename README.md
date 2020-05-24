@@ -17,5 +17,9 @@ Trên giao diện cần có vùng nhập số lượng điểm (nhỏ hơn 20), 
 Trên giao diện cũng cần có vùng nhập điểm đầu và điểm cuối của lộ trình (hoặc có thể click chuột vào các điểm để xác định).
 Sau khi tìm được lộ trình ngắn nhất nối 2 điểm đã chọn, cần vẽ lộ trình đó một cách nổi bật so với các đường nối các điểm (Giống Google Map chỉ đường).
 ```
+## Ngôn ngữ phát triển:
+* Java + JavaFX 
+## Website:
+Link: [http://monkeyfamily.tech](http://monkeyfamily.tech)
 ## Kết quả:
-![image.test.25.05](https://github.com/QuangVuong85/Dijkstra-GUI/images/graph.dijkstra.25.05.test.png)
+![image.test.25.05](https://github.com/QuangVuong85/Dijkstra-GUI/blob/master/images/graph.dijkstra.25.05.test.png)
