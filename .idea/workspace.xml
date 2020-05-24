@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8cfc1de6-8af4-4e99-81b6-9440c5cfcd0f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cMx4RTEAHbW8DBP54T7nKyQMZl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/openjfx-11.0.2/javafx-sdk-11.0.2/lib" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Dijkstra-GUI" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="sample.Main" />
+      <module name="Dijkstra-GUI" />
+      <option name="VM_PARAMETERS" value="--module-path $PROJECT_DIR$/lib/openjfx-11.0.2/javafx-sdk-11.0.2/lib --add-modules=javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8cfc1de6-8af4-4e99-81b6-9440c5cfcd0f" name="Default Changelist" comment="" />
+      <created>1590352071071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590352071071</updated>
+      <workItem from="1590352072733" duration="269000" />
+      <workItem from="1590352562068" duration="473000" />
+    </task>
+    <task id="LOCAL-00001" summary="add lib &amp; path VMOption">
+      <created>1590352939697</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590352939698</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add lib &amp; path VMOption" />
+    <option name="LAST_COMMIT_MESSAGE" value="add lib &amp; path VMOption" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590352714105">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1590352714105" />
+    <state x="498" y="207" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1590352116490">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="498" y="207" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.834@0.0.1536.834" timestamp="1590352116490" />
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1590352933136">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1590352933136" />
+    <state x="473" y="158" key="FileChooserDialogImpl" timestamp="1590352584821">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="473" y="158" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1590352584821" />
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1590352882209">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1590352882209" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1590352882209">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1590352882209" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1590352882208">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1590352882208" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1590352882209">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1590352882209" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1590352587442">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1590352587442" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1590352979237">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1590352979237" />
+  </component>
+</project>
