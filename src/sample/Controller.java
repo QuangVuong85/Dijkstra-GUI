@@ -169,9 +169,11 @@ public class Controller {
             }
         }
         paneDraw.setContent(root);
+        btnGenerate.setDisable(false);
     }
 
     public void btnFind_Clicked(MouseEvent mouseEvent) {
+        btnGenerate.setDisable(true);
         start = dest = -1;
         isFounded = false;
 
